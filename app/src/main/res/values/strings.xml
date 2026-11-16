@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <!-- Zone d'affichage -->
+    <string name="titre">Currency Converter</string>
+    <string name="montant_initial">0</string>
+    <string name="bouton_convertir">Convertir</string>
+    <string name="desc_inverser">Inverser les devises</string>
+    <string name="desc_devise_source">Devise source</string>
+    <string name="desc_devise_cible">Devise cible</string>
+    <string name="taux_reels">Live</string>
+
+    <!-- Clavier numérique -->
+    <string name="touche_0">0</string>
+    <string name="touche_1">1</string>
+    <string name="touche_2">2</string>
+    <string name="touche_3">3</string>
+    <string name="touche_4">4</string>
+    <string name="touche_5">5</string>
+    <string name="touche_6">6</string>
+    <string name="touche_7">7</string>
+    <string name="touche_8">8</string>
+    <string name="touche_9">9</string>
+    <string name="touche_point">.</string>
+    <string name="touche_effacer">C</string>
+
+    <!-- Messages -->
+    <string name="erreur_montant">Veuillez saisir un montant</string>
+    <string name="taux_reels_charges">Taux réels chargés</string>
+    <string name="taux_reels_indisponibles">Réseau indisponible : taux fixes utilisés</string>
+
+    <!-- Liste des devises proposées dans les deux Spinner -->
+    <string-array name="devises">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+    </string-array>
+</resources>

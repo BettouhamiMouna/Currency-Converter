@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs de la maquette -->
+    <color name="turquoise_fond">#2BB8E8</color>   <!-- fond de la zone d'affichage -->
+    <color name="turquoise_touche">#1BA6C9</color> <!-- chiffres du clavier -->
+    <color name="rouge_effacer">#F0727A</color>    <!-- touche « C » -->
+    <color name="fond_clavier">#F7FAFC</color>     <!-- fond clair du clavier -->
+    <color name="blanc">#FFFFFF</color>
+    <color name="blanc_attenue">#CCFFFFFF</color>  <!-- soulignement des montants -->
+    <color name="transparent">#00000000</color>
+</resources>
