@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Élément affiché dans le Spinner fermé : code devise en blanc sur fond turquoise -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/marge_petite"
+    android:paddingEnd="@dimen/marge_petite"
+    android:textColor="@color/blanc"
+    android:textSize="@dimen/taille_devise"
+    android:textStyle="bold" />

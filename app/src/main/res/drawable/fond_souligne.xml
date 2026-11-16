@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fond des TextView montant/résultat : uniquement une ligne en bas (soulignement).
+     Le rectangle est décalé hors champ en haut, à gauche et à droite. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/decalage_soulignement"
+        android:right="@dimen/decalage_soulignement"
+        android:top="@dimen/decalage_soulignement">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/transparent" />
+            <stroke
+                android:width="@dimen/epaisseur_soulignement"
+                android:color="@color/blanc_attenue" />
+        </shape>
+    </item>
+</layer-list>
