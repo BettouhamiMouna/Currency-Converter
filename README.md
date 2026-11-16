@@ -67,11 +67,6 @@ app/src/main/
 └── res/values/dimens.xml          # tailles et marges
 ```
 
-## Configuration
 
-- Android Studio, template *Empty Views Activity*, Kotlin
-- `minSdk` 24, `targetSdk`/`compileSdk` 35
-- AGP 8.7.3, Kotlin 2.0.21, Gradle 8.9
-- `buildFeatures { viewBinding = true }`
 
 
