@@ -1,0 +1,18 @@
+# Gradle / build
+.gradle/
+build/
+/app/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+local.properties
+.kotlin/
+
+# Divers
+.DS_Store
+*.apk
+*.aab

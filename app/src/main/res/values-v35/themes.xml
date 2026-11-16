@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 15 : on garde l'affichage classique (pas d'edge-to-edge forcé)
+         pour que l'écran ne passe pas sous la barre d'état. -->
+    <style name="Theme.CurrencyConverter" parent="Base.Theme.CurrencyConverter">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
