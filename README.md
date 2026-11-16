@@ -74,8 +74,4 @@ app/src/main/
 - AGP 8.7.3, Kotlin 2.0.21, Gradle 8.9
 - `buildFeatures { viewBinding = true }`
 
-## Lancer le projet
 
-1. Ouvrir le dossier dans Android Studio (**File → Open**).
-2. Laisser Gradle se synchroniser.
-3. Lancer l'application sur un émulateur ou un téléphone (API 24 ou plus).
